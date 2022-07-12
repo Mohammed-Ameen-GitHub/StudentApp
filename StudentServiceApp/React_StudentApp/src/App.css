@@ -1,0 +1,12 @@
+.App {    
+  text-align: center;    
+}    
+.navheader{    
+  margin-top: 10px;    
+  color :black !important;    
+  background-color: #1e262e!important    
+}    
+.nav-link:hover{
+  background-color: #97a0aa;
+}
+
