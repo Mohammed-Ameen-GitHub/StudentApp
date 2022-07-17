@@ -1,4 +1,4 @@
-Student Services Application
+Student Services Application
 
 Table of contents
 
@@ -13,11 +13,9 @@ Table of contents
 Introduction
 
 This project helps in registration and manipulation of student records. 
-
 -----------------
 
 Technologies
-
 This application is developed using:
 ReactJs
 HTML 5
@@ -40,7 +38,6 @@ Student folder consists of all the component javascript files.
 WebApi_StudentApp
 
 WebApi_StudentApp folder consists of controllers, models, views and all initialization folders for webapi project.
-
 
 -------------
 
